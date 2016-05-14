@@ -1,0 +1,36 @@
+{
+  "name": "bs-layout-boilerplate-laravel",
+  "description": "Laravel app boilerplate using Bootstrap Layout",
+  "version": "1.0.0",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Laza Bogdan <laza.bogdan@macro-net.ro>",
+  "license": "ISC",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "4.0.0-alpha.2",
+    "bootstrap-layout": "^1.0.0-alpha.8",
+    "bootstrap-layout-scrollable": "^1.0.2",
+    "jquery": "^2.2.0",
+    "sass-md-colors": "^1.0.0",
+    "simplebar": "github:grsmto/simplebar",
+    "tether": "^1.2.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.8",
+    "laravel-elixir": "^4.0.0",
+    "sass-importer-npm": "^1.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/themekit/adminplus-boilerplate-laravel.git"
+  },
+  "bugs": {
+    "url": "https://github.com/themekit/adminplus-boilerplate-laravel/issues"
+  },
+  "homepage": "https://github.com/themekit/adminplus-boilerplate-laravel#readme"
+}

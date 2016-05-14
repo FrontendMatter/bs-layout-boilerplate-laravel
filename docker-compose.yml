@@ -1,0 +1,7 @@
+web:
+  build: .
+  ports:
+    - '80:80'
+  volumes:
+    - /Users/lazabogdan/docker/bs-layout-boilerplate-laravel:/app/www
+  privileged: true
